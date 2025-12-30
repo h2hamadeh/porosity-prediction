@@ -1,13 +1,6 @@
 # Deep Learning for Porosity Prediction
 This repository contains a "from-scratch" implementation of a fully-connected feedforward neural network for predicting porosity from synethetic geophysical measurements in sandstone formations.
 
-acoustic impedance and geographic coordinates as input features. 
-
-
-using synthetic geophysical data, created by [Professor Michael Pyrcz](https://zenodo.org/records/5564874).
-
-
-containing a feedforward neural network model for predicting porosity using synthetic geophysical data, created 
 # Porosity Prediction Using Neural Networks
 
 A from-scratch implementation of a fully-connected neural network for predicting reservoir porosity from acoustic impedance data. Built with pure NumPy to demonstrate deep understanding of backpropagation mechanics and neural network fundamentals.
