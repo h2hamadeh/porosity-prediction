@@ -1,0 +1,17 @@
+# Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+scipy>=1.9.0
+
+# For Jupyter notebook execution (optional)
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# For better development experience (optional)
+ipython>=8.0.0
+
+# To modernize with ML frameworks (optiona)
+# scikit-learn>=1.2.0
+# tensorflow>=2.12.0
+# torch>=2.0.0
