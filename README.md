@@ -1,5 +1,5 @@
 # Deep Learning for Porosity Prediction
-This repository contains a "from-scratch" implementation of a fully-connected feedforward neural network for predicting porosity from synethetic geophysical measurements in sandstone formations.
+This repository contains a "from-scratch" implementation of a fully-connected feedforward neural network for predicting porosity from synthetic geophysical measurements in sandstone formations.
 
 # Porosity Prediction Using Neural Networks
 
@@ -15,7 +15,7 @@ The model predicts porosity (target variable) from:
 
 ### Dataset
 
-The project uses synthetic geophysical data, created by [Professor Michael Pyrcz](https://zenodo.org/records/5564874).
+The project uses synthetic geophysical data, created by [**Professor Michael Pyrcz**](https://zenodo.org/records/5564874).
 
 The dataset contains **480 data points** from sandstone formations with the following features (not all features were used in the model):
 - **spatial (X,Y) coordinates** - predictive features
