@@ -7,7 +7,7 @@ A from-scratch implementation of a fully-connected neural network for predicting
 
 ## Overview
 
-This project implements a multi-layer neural network **without using high-level ML frameworks** like TensorFlow or PyTorch.
+This project (from 2020/2021, updated in 2024 and uploaded retroactively) implements a multi-layer neural network **without using high-level ML frameworks** like TensorFlow or PyTorch.
 
 The model predicts porosity (target variable) from:
 - Acoustic Impedance (primary feature)
