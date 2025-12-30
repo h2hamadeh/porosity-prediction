@@ -1,13 +1,9 @@
 # Deep Learning for Porosity Prediction
 This repository contains a "from-scratch" implementation of a fully-connected feedforward neural network for predicting porosity from synthetic geophysical measurements in sandstone formations.
 
-# Porosity Prediction Using Neural Networks
-
-A from-scratch implementation of a fully-connected neural network for predicting reservoir porosity from acoustic impedance data. Built with pure NumPy to demonstrate deep understanding of backpropagation mechanics and neural network fundamentals.
-
 ## Overview
 
-This project (from 2020/2021, updated in 2024 and uploaded retroactively) implements a multi-layer neural network **without using high-level ML frameworks** like TensorFlow or PyTorch.
+This project (from 2019/2020, updated in 2024 and uploaded retroactively) implements a multi-layer neural network **without using high-level ML frameworks**, following Andrew Ng's methodology.
 
 The model predicts porosity (target variable) from:
 - Acoustic Impedance (primary feature)
